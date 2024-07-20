@@ -132,4 +132,4 @@ async def on_button_click(interaction):
         await create_ticket(interaction, ticket_type)
 
 # تشغيل البوت
-bot.run('TOKEN')
+bot.run('MTI2MTYwNTU4MjkzOTYyMzQ3NQ.Gt130O.ebj9cJhASuPEI8S0OJHniMhBN2TdkZ5X8fRKs0')
